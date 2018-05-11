@@ -9,7 +9,7 @@
                  the World Wide Web:
  
                      http://developer.apple.com/bugreporter/
- 
+      Ovnicom Derechos de autor: Conquitemos el mundo!!!
 */
 #ifndef __CARBONEVENTS__
 #define __CARBONEVENTS__
